@@ -16,7 +16,7 @@
 사실적인 스타일뿐만 아니라 만화·일러스트 등 비사실적 스타일에서도
 구조적 일관성과 의상 충실도를 유지하는 것을 목표로 합니다.
 
-📎 PDF: `papers/A_Style-adapted_Virtual_Try-on_Technique_for_Story_Visualization.pdf`
+📎 PDF: `paper/A_Style-adapted_Virtual_Try-on_Technique_for_Story_Visualization.pdf`
 
 ---
 
@@ -27,4 +27,4 @@
 참조 캐릭터의 얼굴 특징을 적용하는 Diffusion 기반 캐릭터 합성 기법을 제안합니다.
 이를 통해 시각적 일관성을 유지하면서도 아티팩트를 줄인 캐릭터 생성을 목표로 합니다.
 
-📎 PDF: `papers/A_Diffusion_Model-Based_Character_Synthesis_Using_a_Blank_Face.pdf`
+📎 PDF: `paper/A_Diffusion_Model-Based_Character_Synthesis_Using_a_Blank_Face.pdf`
